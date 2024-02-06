@@ -1,5 +1,5 @@
 # MyLox 
-[![Java Version](https://img.shields.io/badge/Java-11%2B-blue)](https://www.oracle.com/java/technologies/javase-downloads.html)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 MyLox is a Tree-Walk interpreter implementation in Java for Lox programming language based on the book "[Crafting Interpreters](https://craftinginterpreters.com/)" by Robert Nystrom.
